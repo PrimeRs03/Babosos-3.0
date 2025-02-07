@@ -1933,3 +1933,15 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [07Feb2025 16:37:04.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 186535 chunks (47.45%), ETA: 2:28:44, Rate: 23.1 cps, Current: 230, -210
 [07Feb2025 16:37:05.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 186563 chunks (47.46%), ETA: 2:30:29, Rate: 22.9 cps, Current: 228, -214
 [07Feb2025 16:37:06.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 186592 chunks (47.46%), ETA: 2:37:50, Rate: 21.8 cps, Current: 225, -214
+[07Feb2025 16:57:22.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task already started for minecraft:overworld!
+[07Feb2025 17:01:48.566] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[07Feb2025 17:01:48.726] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrimeRios03[/127.68.54.161:39799] logged in with entity id 8779 at (-1675.3514158446728, 115.0, 128.30000001192093)
+[07Feb2025 17:01:48.796] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to PrimeRios03
+[07Feb2025 17:01:48.798] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to PrimeRios03
+[07Feb2025 17:01:48.798] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to PrimeRios03
+[07Feb2025 17:01:48.799] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to PrimeRios03
+[07Feb2025 17:01:48.801] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to PrimeRios03
+[07Feb2025 17:01:48.805] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to PrimeRios03
+[07Feb2025 17:01:48.805] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PrimeRios03
+[07Feb2025 17:01:48.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 joined the game
+[07Feb2025 17:01:49.030] [Server thread/INFO] [Jade/]: Syncing config to PrimeRios03 (e4bcc4ae-0e89-38e4-a892-edc771448902)
