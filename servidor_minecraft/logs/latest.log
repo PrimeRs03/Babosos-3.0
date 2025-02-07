@@ -1945,3 +1945,8 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [07Feb2025 17:01:48.805] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PrimeRios03
 [07Feb2025 17:01:48.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrimeRios03 joined the game
 [07Feb2025 17:01:49.030] [Server thread/INFO] [Jade/]: Syncing config to PrimeRios03 (e4bcc4ae-0e89-38e4-a892-edc771448902)
+[07Feb2025 17:02:48.663] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[07Feb2025 17:02:48.663] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[07Feb2025 17:02:49.605] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID e62884b2-88df-4be1-b2f8-4d0493ca8ebd
+[07Feb2025 17:02:49.627] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID ca53b57a-8850-4d9b-b8f2-cce7ccd78b1c
+[07Feb2025 17:02:49.627] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/Babosos-3.0/servidor_minecraft/./crash-reports/crash-2025-02-07_17.02.49-server.txt
